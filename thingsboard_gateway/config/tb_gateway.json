@@ -1,6 +1,6 @@
 {
   "thingsboard": {
-    "host": "192.168.8.100",
+    "host": "thingsboard.cloud",
     "port": 1883,
     "remoteShell": false,
     "remoteConfiguration": true,
@@ -21,7 +21,7 @@
     "handleDeviceRenaming": true,
     "security": {
       "type": "accessToken",
-      "accessToken": "FhbboaLaxqGikd0L5Acx"
+      "accessToken": "YOUR_ACCESS_TOKEN"
     },
     "qos": 1,
     "reportStrategy": {
